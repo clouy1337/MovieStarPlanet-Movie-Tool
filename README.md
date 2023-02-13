@@ -19,15 +19,6 @@
    <a href="https://github.com/clouy1337/MovieStarPlanet-Movie-Tool/issues">Request Feature</a>
 </div>
 
-## Features
-```js
-- Share botting (Not patched -> updates on discord)
-- Proxy Scrapper integrated
-- Compatible Linux/Windows/Mac
-
-Easy to use + FAST!
-```
-
 ## Usage
 ```
 ADD ME ON DISCORD TO GET THE SOURCE-CODE:
