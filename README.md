@@ -10,7 +10,7 @@
 <br/>
 <div align="center">
  <a href="https://github.com/clouy1337/MovieStarPlanet-Movie-Tool">
-   <img src="https://lf16-tiktok-web.ttwstatic.com/obj/tiktok-web-common-sg/mtact/static/images/logo_144c91a.png" alt="Logo" width="120" height="120">
+   <img src="https://cdn.discordapp.com/attachments/525028083007488031/1074722015115739217/MovieStarPlanet_Logo.png" alt="Logo" width="120" height="120">
  </a>
   
   <h2 align="center">☄️ MOVIESTARPLANET MOVIE TOOL☄️ (Source-Code)</h3>
